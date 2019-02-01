@@ -18,7 +18,6 @@ function shuffle(arr) {
   }
   return arr;
 }
-
 /* Complete the function createDeck(), which we've started for you below. The goal is to create a multi-dimensional array of 52 elements (52 cards), and return them shuffled when the function is called. To simplify creating the deck use two for loops -- one inside the other -- to build a multidimensional array.
 */
 // 1. Add a for loop -- to loop through each element in the suites array
